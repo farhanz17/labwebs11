@@ -1,7 +1,7 @@
 # Pemrograman Web 02 - Labweb11
 
 ## note :
-mohon maaf file **ci4** tidak dapat di upload ke git hub
+mohon maaf file **ci4** tidak dapat di upload ke repository
 
 ## Profil
 | #               | Biodata           |
