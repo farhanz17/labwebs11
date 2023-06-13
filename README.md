@@ -60,7 +60,22 @@ Ujicoba file upload dengan mengakses menu tambah artikel.
 
 ![Screenshot (219)](https://github.com/farhanz17/labwebs11/assets/92637117/e336da95-3086-44db-9454-11a1438dd45f)
 
+## Pertanyaan dan Tugas
+
+Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan
+improvisasi.
+
+## Laporan Praktikum
+
+1. Melanjutkan praktikum sebelumnya pada repository dengan nama Lab11Web.
+2. Kerjakan semua latihan yang diberikan sesuai urutannya.
+3. Screenshot setiap perubahannya.
+4. Update file README.md dan tuliskan penjelasan dari setiap langkah praktikum
+beserta screenshotnya.
+5. Commit hasilnya pada repository masing-masing.
+6. Kirim URL repository pada e-learning ecampus
+
 # Terima kasih
 
-![image](https://github.com/farhanz17/labwebs11/assets/92637117/fe289f07-ec66-4f16-95ac-43e38b6ba402)
+
 
