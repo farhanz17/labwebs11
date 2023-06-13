@@ -75,7 +75,7 @@ beserta screenshotnya.
 5. Commit hasilnya pada repository masing-masing.
 6. Kirim URL repository pada e-learning ecampus
 
-# Terima kasih
+# Terima kasih..
 
 
 
