@@ -1,5 +1,14 @@
-# Pemrograman Web 02 - Pertemuan 13
+# Pemrograman Web 02 - Labweb11
+## Profil
+| #               | Biodata           |
+| --------------- | ----------------- |
+| **Nama**        | Muhammad Farhan   |
+| **NIM**         | 312110128         |
+| **Kelas**       | TI.21.A.1         |
+| **Mata Kuliah** | Pemrograman Web 2 |
+
 ## Upload File Gambar
+
 ### Langkah-langkah Praktikum
 
 #### Upload Gambar pada Artikel
@@ -49,6 +58,9 @@ Dan sesuaikan tag form dengan menambahkan ecrypt type seperti berikut.
 
 Ujicoba file upload dengan mengakses menu tambah artikel.
 
+![Screenshot (219)](https://github.com/farhanz17/labwebs11/assets/92637117/e336da95-3086-44db-9454-11a1438dd45f)
 
+# Terima kasih
 
-# Sekian Terima kasih
+![image](https://github.com/farhanz17/labwebs11/assets/92637117/fe289f07-ec66-4f16-95ac-43e38b6ba402)
+
